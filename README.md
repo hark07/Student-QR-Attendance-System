@@ -35,6 +35,9 @@ npm run dev
 - College/School monitoring
 - Library or lab entry system
 
+## Status
+🚧 Work in Progress – more features will be added gradually.
+
 ## 👨‍💻 Author
 Hark Dhami  
 BCA Final Year Project
