@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Scrollbar width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Scrollbar track (background) */
+::-webkit-scrollbar-track {
+  background: #f0f0f0; 
+}
+
+/* Scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: #ccc; 
+  border-radius: 6px;
+  border: 3px solid #f0f0f0;
+}
