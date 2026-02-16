@@ -36,5 +36,5 @@ npm run dev
 - Library or lab entry system
 
 ## 👨‍💻 Author
-Harish Dhami  
+Hark Dhami  
 BCA Final Year Project
